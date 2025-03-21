@@ -1,7 +1,3 @@
-It looks like you want to include both images in your database entry documentation. Here's how you can update your README to include them:
-
----
-
 # <p align="center"><br><img src="https://user-images.githubusercontent.com/23246257/114189767-8e43b980-9918-11eb-8e3d-f925b2a72032.png" alt="next-crud" width="120"><br><br>next-crud</p>
 
 <p align="center">A straightforward full-stack CRUD application built with Next.js.</p>
