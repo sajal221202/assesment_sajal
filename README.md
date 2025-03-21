@@ -28,10 +28,11 @@ This project incorporates modern web development technologies and best practices
 The application uses MongoDB to store and manage data. Below is an example of how the data is stored and displayed:
 
 ### **MongoDB Database View**
-<img src="https://files.slack.com/files-pri/T0188PWDTJA-F08KBBTBPLG/image.png" alt="MongoDB Database Entry" width="100%">
+![image](https://github.com/user-attachments/assets/15827410-61bd-4a66-8d8e-e10a4d5da0b1)
+
 
 ### **Application UI View**
-<img src="https://files.slack.com/files-pri/T0188PWDTJA-F08JUKDLYJG/image.png" alt="Frontend UI Display" width="100%">
+![image](https://github.com/user-attachments/assets/4a919b52-0f40-4917-a29f-5d93f0ef7578)
 
 ## Getting Started
 
