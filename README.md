@@ -1,30 +1,4 @@
 
-<h1 align="center">
-<br>
-  <img src="https://user-images.githubusercontent.com/23246257/114189767-8e43b980-9918-11eb-8e3d-f925b2a72032.png" alt="next-crud" width="120">
-<br>
-<br>
-next-crud
-</h1>
-
-<p align="center">A simple fullstack CRUD using next.js</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/23246257/114190373-3c4f6380-9919-11eb-8e78-0350c2302d6b.gif" alt="demo" height="425">
-</div>
-
-<hr />
-
-Sure! Here's a revised version of your README with different wording while keeping the content the same:
-
----
-
 # <p align="center"><br><img src="https://user-images.githubusercontent.com/23246257/114189767-8e43b980-9918-11eb-8e3d-f925b2a72032.png" alt="next-crud" width="120"><br><br>next-crud</p>
 
 <p align="center">A straightforward full-stack CRUD application built with Next.js.</p>
