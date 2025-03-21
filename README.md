@@ -1,3 +1,6 @@
+It looks like you want to include both images in your database entry documentation. Here's how you can update your README to include them:
+
+---
 
 # <p align="center"><br><img src="https://user-images.githubusercontent.com/23246257/114189767-8e43b980-9918-11eb-8e3d-f925b2a72032.png" alt="next-crud" width="120"><br><br>next-crud</p>
 
@@ -19,10 +22,20 @@
 
 This project incorporates modern web development technologies and best practices, including:
 
-- ⚛️ **React.js** — A popular JavaScript library for crafting user interfaces
-- ⚛️ **Next.js** — A powerful React framework for building server-side and static web applications
-- 💹 **Node.js** — A runtime environment that allows JavaScript to run on the server
-- 💹 **MongoDB** — A NoSQL database that stores data in a JSON-like format
+- ⚛️ **React.js** — A popular JavaScript library for crafting user interfaces  
+- ⚛️ **Next.js** — A powerful React framework for building server-side and static web applications  
+- 💹 **Node.js** — A runtime environment that allows JavaScript to run on the server  
+- 💹 **MongoDB** — A NoSQL database that stores data in a JSON-like format  
+
+## Database Entry Example
+
+The application uses MongoDB to store and manage data. Below is an example of how the data is stored and displayed:
+
+### **MongoDB Database View**
+<img src="https://files.slack.com/files-pri/T0188PWDTJA-F08KBBTBPLG/image.png" alt="MongoDB Database Entry" width="100%">
+
+### **Application UI View**
+<img src="https://files.slack.com/files-pri/T0188PWDTJA-F08JUKDLYJG/image.png" alt="Frontend UI Display" width="100%">
 
 ## Getting Started
 
@@ -30,7 +43,7 @@ Follow these steps to set up and run the project:
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/arthurvamattos/next-crud.git
+   git clone https://github.com/sajal221202/assesment_sajal.git
    ```
 2. Navigate to the project directory:  
    ```sh
@@ -38,12 +51,12 @@ Follow these steps to set up and run the project:
    ```
 3. Install dependencies using Yarn:  
    ```sh
-   yarn
+   npm install
    ```
 4. Create a `.env` file and define the `DATABASE_URL` variable with your MongoDB connection string.
 5. Start the development server:  
    ```sh
-   yarn dev
+   npm run dev
    ```
 
 ## License
@@ -51,5 +64,3 @@ Follow these steps to set up and run the project:
 This project is distributed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for more details.
 
 ---
-
-This version keeps all the information the same but presents it differently. Let me know if you need further modifications!
